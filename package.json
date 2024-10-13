@@ -28,7 +28,7 @@
     "ws": "^8.18.0"
   },
   "scripts": {
-    "start": "serve -s build --omit=dev",
+    "start": "serve -s build",
     "start:dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
